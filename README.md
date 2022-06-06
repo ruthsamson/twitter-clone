@@ -4,7 +4,13 @@
 
 A twitter clone website that implements CRUD functionality and allows users to post, edit, read, and delete entries. Authenticates users by email and stores and updates entries using a database through Firebase. 
 
-## 📸 Project Screenshots or Demo Link
+## 📸 Project Screenshots
+
+<img width="800" alt="twitter-clone" src="https://user-images.githubusercontent.com/89995514/172224906-f55c810d-9502-4931-aa37-b937efdbedb5.png">
+<img width="800" alt="twitter-clone-2" src="https://user-images.githubusercontent.com/89995514/172224920-4a3db207-0fa8-4d1c-a767-a54432fa1c9a.png">
+<img width="400" alt="twitter-clone-4" src="https://user-images.githubusercontent.com/89995514/172224924-80e8260e-bc37-4c4c-87a4-572b5e34023b.png">
+
+
 
 
 
